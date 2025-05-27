@@ -39,7 +39,7 @@ The main code is in the Jupyter notebook `mnist_regression_model.ipynb`. To run 
 
 The logistic regression model achieves:
 - Training accuracy: 93.93%
-- Test accuracy: 92.57%
+- Test accuracy: 92.57%  
 
 The model performs well across all digit classes, with particularly high precision and recall for digits 0, 1, 4, and 6.
 
